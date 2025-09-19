@@ -33,9 +33,10 @@
 - The **progress bar** and **log window** display real-time status.
   
 <img width="616" height="261" alt="image" src="https://github.com/user-attachments/assets/69c0684e-5961-4e64-a503-192aede20b93" />
+
 ---
 
-*(Optional)* Enable unrestricted script execution in PowerShell if needed:
+*(Optional)* Enable unrestricted script execution in PowerShell if needed (Run as Admin):
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 
